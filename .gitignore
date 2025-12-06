@@ -1,0 +1,42 @@
+# Large CSV files
+*.csv
+cleaned*.csv
+full.csv
+
+# Model files
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Image outputs
+*.png
+*.jpg
+*.jpeg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
